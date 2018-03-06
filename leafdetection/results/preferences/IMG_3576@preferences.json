@@ -1,0 +1,1 @@
+{"image_filename": "/nfs/users/tobiasj/LeafDetection/images/IMG_3576.JPG", "results_dir": "/nfs/users/tobiasj/LeafDetection/results", "experiment_name": "IMG_3576", "threshold": 19, "closing": true, "min_area": 5000, "vertical_dilate": 200, "horizontal_dilate": 400, "centroid": true, "regions_save": true}
